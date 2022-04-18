@@ -15,6 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+$1+2 = 3$
+
+$$
+2+3=5
+$$
+
 - Bulleted
 - List
 
